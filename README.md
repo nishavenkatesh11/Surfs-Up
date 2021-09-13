@@ -6,8 +6,12 @@ The purpose of the analysis is to analyse temperature data for the months of Jun
 
 ## Results
 June Temperature Data:
+
 ![](https://github.com/nishavenkatesh11/Surfs-Up/blob/main/jun_temp_describe.png)
+
+
 December Termperature Data:
+
 ![](https://github.com/nishavenkatesh11/Surfs-Up/blob/main/dec_temp_describe.png)
 ### Key Differences
 The three key differences in weather between June and December are:
